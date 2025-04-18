@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ExerciseOne">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ExerciseOne.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
